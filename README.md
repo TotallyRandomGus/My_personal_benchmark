@@ -1,6 +1,6 @@
 <span id="title">
 
-# Benchmark organizer template
+# My personal benchmark
 
 </span>
 
@@ -62,7 +62,7 @@ Finally, when all the previous steps have been made, you can remove this "Organi
 
 <span id="description">
 
-Write here a short description of your benchmark.
+Here is a short description of my benchmark...
 
 </span>
 
@@ -72,10 +72,10 @@ Write here a short description of your benchmark.
 
 <span id="information">
 
-- Difficulty: Middle School, High School, Bachelor, Master or PhD
-- Robot: robot name
-- Language: programming language of controller template
-- Commitment: amount of time needed to program controller
+- Difficulty: Bachelor
+- Robot: epuck
+- Language: python
+- Commitment: a couple of hours
 
 </span>
 
@@ -97,7 +97,7 @@ You should now be on your own repository page. The URL should look like this: "h
 - Click on the "Settings" tab and then under the Access section click on "Collaborators"
   - You might need to confirm the access by re-entering your GitHub password.
 - When this is done you should see a "Manage access" box where you will see the current collaborators of the repo.
-Click on the "Add people" and search for "ORGANIZER_NAME". When you found the organizer, add them to the repository.
+Click on the "Add people" and search for "TotallyRandomGus". When you found the organizer, add them to the repository.
 
 ### Submit your entry by using posting an issue using the provided template
 
